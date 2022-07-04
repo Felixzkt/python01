@@ -1,0 +1,11 @@
+print("Hello M.6/11")  
+print("My name is Teeramet Pairinudomchok")
+print("My nickname is Phone")
+print("No.16")
+print("อายุ : 18","ปี")
+print("Nationality Thai")
+print("Have 6 peoples in family")
+print("Favorite food is Fried Basil")
+print("Favorite movie type is drama and crime")
+print("My hobby is Play computer game")
+#ธีรเมธ ไพรินอุดมโชค ชั้นม.6/11 เลขที่16
